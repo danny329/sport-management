@@ -1,0 +1,76 @@
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\obj\Debug\webapp sportmanagement.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\webapp sportmanagement.dll.config
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\webapp sportmanagement.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\webapp sportmanagement.pdb
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csc.exe
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csc.exe.config
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csc.rsp
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csi.exe
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csi.exe.config
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\csi.rsp
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.AppContext.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Console.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Threading.Thread.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\vbc.exe
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\vbc.exe.config
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\vbc.rsp
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\obj\Debug\webapp sportmanagement.csproj.CopyComplete
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\obj\Debug\webapp sportmanagement.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\obj\Debug\webapp sportmanagement.pdb
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\obj\Debug\webapp sportmanagement.csprojAssemblyReference.cache
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportSource.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.Shared.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\stdole.dll
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\App_Data\newdb.mdf
+C:\Users\DANIEL\source\repos\Sport Mangement\webapp sportmanagement\bin\App_Data\newdb_log.ldf
